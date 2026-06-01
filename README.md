@@ -1,4 +1,5 @@
-# 자기소개 A
+# intro
+
 Git과 GitHub의 브랜치, Pull Request, 셀프 리뷰, Merge 흐름을 연습하기 위한 자기소개 과제입니다.
 
 이번 과제는 main 브랜치에서 직접 작업하지 않고, 작업 단위별로 feature 브랜치를 생성하여 진행합니다.
